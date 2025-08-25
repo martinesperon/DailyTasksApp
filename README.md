@@ -29,8 +29,11 @@ Una aplicación Android sencilla desarrollada en **Java** que permite al usuario
 ## 📂 Estructura básica del proyecto
 
 -MainActivity.java # Pantalla principal
+
 -LoginActivity.java # Pantalla de ingreso de nombre
+
 -activity_main.xml # UI principal
+
 -activity_login.xml # UI de login con input de nombre
 
 ---
