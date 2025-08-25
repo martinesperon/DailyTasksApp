@@ -1,0 +1,20 @@
+<!-- activity_summary.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:gravity="center"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/summaryText"
+        android:text="Resumen"
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/btnBackToTasks"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Volver a tareas" />
+
+</LinearLayout>
